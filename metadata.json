@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Meu localizador",
+  "description": "A sophisticated location monitoring app that allows users to mark points on a map and trigger notifications or open links when they enter specific geographic zones.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
